@@ -8,7 +8,7 @@ Microsoft provides programming examples for illustration only, without warranty 
  functionality of a particular procedure, but they will not modify these examples to provide added 
  functionality or construct procedures to meet your specific needs. if you have limited programming 
  experience, you may want to contact a Microsoft Certified Partner or the Microsoft fee-based consulting 
- line at (800) 936-5200. 
+ line at (800) 936-5200.  Thank you.
  #>
 
 # SET VARIABLES
